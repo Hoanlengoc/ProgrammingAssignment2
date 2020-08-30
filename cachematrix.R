@@ -39,7 +39,7 @@ cacheSolve <- function(x, ...) {
   inv      
 }
 
-### description of learning steps - I mostly relied on hints 
+### description of learning steps - I mostly relied on hints but now understand how it works
 ##practice1 start with the example
 makeVector <- function(x = numeric()) {
   m <- NULL
